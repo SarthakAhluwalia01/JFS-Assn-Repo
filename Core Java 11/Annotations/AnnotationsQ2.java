@@ -20,7 +20,7 @@ import java.lang.reflect.Method;
 }
 
 class Devloper{
-    @Info(AuthorID = 108806, Date = "07-112-1999", Time = "5:00pm", version = 6)
+    @Info(AuthorID = 108806, Date = "07-12-1999", Time = "5:00pm", version = 6)
     public void displayMethod(){System.out.println("Author Info");}
 }
 public class AnnotationsQ2 {
